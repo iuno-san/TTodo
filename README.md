@@ -1,7 +1,7 @@
 # 🌱TTodo
  "TToDO" is a minimalistic React application that allows you to add, remove and edit tasks in a simple way. The intuitive interface allows you to effectively manage your daily tasks, providing the user with ease of use and quick access to editing and deleting functions. Perfect for simple monitoring and organization of everyday tasks.
 
- ![](https://raw.githubusercontent.com/iuno-san/TTodo/main/demo_img.png?token=GHSAT0AAAAAACKQ43GGZDPEMMX777TOXHBYZMEUA7A)
+ ![](https://raw.githubusercontent.com/iuno-san/TTodo/main/demo_img.png)
 
 
  ## 🌙Application Structure
