@@ -17,7 +17,7 @@ TTodo
 |   |   |-- EditTodoForm.jsx
 |   |   |-- TodoController.jsx
 |   |-- App.jsx
-|   |-- Main.jsx
+|   |-- Index.js
 
 ```
 
